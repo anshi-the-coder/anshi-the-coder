@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Gangwar</h1>
-<h3 align="center">A passionate frontend(React.js) developer.</h3>
+<h3 align="center">A passionate full-stack(React.js,Node.js,Mongo Db) developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi-the-coder&label=Profile%20views&color=0e75b6&style=flat" alt="anshi-the-coder" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [TaskMate](https://github.com/anshi-the-coder/TaskMate)
 
-- 🌱 I’m currently learning **React.js, Redux...**
+- 🌱 I’m currently learning **React.js,Node.js,Mongo Db Redux...**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **anshikagangwar341@gmail.com**
 
