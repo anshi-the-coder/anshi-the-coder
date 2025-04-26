@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshi-the-coder" alt="anshi-the-coder" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website].
+- 🔭 I’m currently working on [Expense Tracker].
 
-- 🌱 I’m currently learning **React.js,Node.js,Mongo Db Redux...**
+- 🌱 I’m currently learning **React.js,Node.js,Mongo Db Redux,Python,DataScience...**
 
 - 💬 Ask me about **React.js, Node.js**
 
