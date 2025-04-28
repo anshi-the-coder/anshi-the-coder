@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/anshika-gangwar-6484ba344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-gangwar-6484ba344" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ansi_the_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ansi_the_coder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshi_the_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshi_the_coder" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/anshi_the_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshi_the_coder" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/anshi_the_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Codeforces.svg" alt="anshi_the_coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
