@@ -12,7 +12,6 @@
 - 💬 Ask me about **React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at https://anshikagangwar.netlify.app/
-- 
 - 📫 How to reach me **anshikagangwar341@gmail.com**
 
 - ⚡ Fun fact **"The first computer bug was an actual moth stuck in a relay of the Harvard Mark II computer in 1947." 🐛**
