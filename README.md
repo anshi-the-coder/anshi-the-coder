@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Gangwar</h1>
-<h3 align="center">Ex SDE intern @Codegraphi, Full Stack(MERN)Developer, Competitive Programmer.</h3>
+<h3 align="center">Ex SDE intern @Codegraphi Technology, Full Stack(MERN)Developer, Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi-the-coder&label=Profile%20views&color=0e75b6&style=flat" alt="anshi-the-coder" /> </p>
 
