@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3650a293-e6bd-4da8-a162-366cf377611d" /><h1 align="center">Hi 👋, I'm Anshika Gangwar</h1>
+<h1 align="center">Hi 👋, I'm Anshika Gangwar</h1>
 <h3 align="center">Ex SDE intern @Codegraphi, Full Stack(MERN)Developer, Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi-the-coder&label=Profile%20views&color=0e75b6&style=flat" alt="anshi-the-coder" /> </p>
